@@ -1,0 +1,6 @@
+name "relayb"
+description "Velleman 8090 Ub relay board driver"
+copyright "Copyright © 2015, javier.fernandez"
+authors "javier.fernandez"
+dependency "dlangui" version="0.6.49"
+dependency "serial-port" version="1.0.0"

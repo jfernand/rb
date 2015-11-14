@@ -1,0 +1,14 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"dsfml": "2.1.0",
+		"dlib": "0.7.0",
+		"dlangui": "0.6.49",
+		"derelict-util": "2.0.4",
+		"gl3n": "1.2.0",
+		"derelict-ft": "1.0.2",
+		"derelict-gl3": "1.0.16",
+		"derelict-sdl2": "1.9.7",
+		"serial-port": "1.0.0"
+	}
+}
